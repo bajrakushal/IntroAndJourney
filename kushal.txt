@@ -1,6 +1,10 @@
 Introduction
-Hello, I'm Kushal Bajracharya living in hetauda and I am pursuing BIM (8th semester). Talking about myself I love travelling but have bus sickness and this prevents me from travelling, I love dancing, watching movies, listening to music, hanging out with people and love doing other things as well. 
+Hello, I'm Kushal Bajracharya living in hetauda and I am pursuing BIM (8th semester). 
+Talking about myself I love travelling but have bus sickness and this prevents me from travelling,
+I love dancing, watching movies, listening to music, hanging out with people and love doing other things as well. 
 
 
 Journey to Git & Github
-This has been an amazing two day's session and the third day is still on the queue. This session has brought in the knowledge we need to understand on how Git & Github works. I really appreciate the efforts of our instructor. Thanking GCA for conducting this session and hoping more session like this are still upcoming. 
+This has been an amazing two day's session and the third day is still on the queue. 
+This session has brought in the knowledge we need to understand on how Git & Github works. I really appreciate the efforts of our instructor. 
+Thanking GCA for conducting this session and hoping more session like this are still upcoming. 
